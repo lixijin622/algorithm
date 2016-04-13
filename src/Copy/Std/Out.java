@@ -1,4 +1,4 @@
-package Copy.std;
+package Copy.Std;
 
 /******************************************************************************
  *  Compilation:  javac Out.java
@@ -298,7 +298,7 @@ public class Out {
 
 
     /**
-     * A test client.
+     * A Test client.
      */
     public static void main(String[] args) {
         Out out;
@@ -309,7 +309,7 @@ public class Out {
         out.close();
 
         // write to a file
-        out = new Out("test.txt");
+        out = new Out("Test.txt");
         out.println("Test 2");
         out.close();
     }

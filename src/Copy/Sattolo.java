@@ -20,9 +20,9 @@ package Copy;
  *
  ******************************************************************************/
 
-import Copy.std.StdIn;
-import Copy.std.StdOut;
-import Copy.std.StdRandom;
+import Copy.Std.StdIn;
+import Copy.Std.StdOut;
+import Copy.Std.StdRandom;
 
 /**
  *  The <tt>Sattolo</tt> class provides a client for reading in a

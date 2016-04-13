@@ -1,8 +1,8 @@
-package Copy.std;
+package Copy.Std;
 
 /******************************************************************************
  *  Compilation:  javac StdIn.java
- *  Execution:    java StdIn   (interactive test of basic functionality)
+ *  Execution:    java StdIn   (interactive Test of basic functionality)
  *  Dependencies: none
  *
  *  Reads in data of various types from standard input.
@@ -494,7 +494,7 @@ public final class StdIn {
 
 
     /**
-     * Interactive test of basic functionality.
+     * Interactive Test of basic functionality.
      */
     public static void main(String[] args) {
 

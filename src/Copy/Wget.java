@@ -1,6 +1,6 @@
 package Copy;
 
-import Copy.std.*;
+import Copy.Std.*;
 /******************************************************************************
  *  Compilation:  javac Wget.java
  *  Execution:    java Wget url

@@ -1,4 +1,4 @@
-package Copy.std;
+package Copy.Std;
 
 /******************************************************************************
  *  Compilation:  javac StdRandom.java
@@ -465,7 +465,7 @@ public final class StdRandom {
     }
 
     /**
-     * Unit test.
+     * Unit Test.
      */
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);

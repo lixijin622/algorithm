@@ -3,7 +3,7 @@ package Fundamentals.BasicProgramModel;
 /**
  * Created by x on 2016/4/13.
  */
-public class isEqual {
+public class IsEqual {
     public static boolean isEqual(int a,int b,int c){
         if(a==b&&b==c){
             return true;

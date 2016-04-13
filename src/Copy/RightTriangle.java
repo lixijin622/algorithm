@@ -1,6 +1,6 @@
 package Copy;
 
-import Copy.std.StdDraw;
+import Copy.Std.StdDraw;
 
 /******************************************************************************
  *  Compilation:  javac RightTriangle.java
