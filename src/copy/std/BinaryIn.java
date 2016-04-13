@@ -1,4 +1,4 @@
-package copy.std;
+package Copy.std;
 
 /******************************************************************************
  *  Compilation:  javac BinaryIn.java

@@ -1,4 +1,4 @@
-package copy;
+package Copy;
 
 /******************************************************************************
  *  Compilation:  javac Sattolo.java
@@ -20,9 +20,9 @@ package copy;
  *
  ******************************************************************************/
 
-import copy.std.StdIn;
-import copy.std.StdOut;
-import copy.std.StdRandom;
+import Copy.std.StdIn;
+import Copy.std.StdOut;
+import Copy.std.StdRandom;
 
 /**
  *  The <tt>Sattolo</tt> class provides a client for reading in a

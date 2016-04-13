@@ -1,4 +1,4 @@
-package cMath;
+package CMath;
 
 
 /**
