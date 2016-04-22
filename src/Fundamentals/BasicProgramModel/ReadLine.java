@@ -55,7 +55,7 @@ public class ReadLine {
             reader.close();
             bufferedReader.close();
         }else {
-            System.out.println("找不到文件");
+           // System.out.println("找不到文件");
         }
         }catch (Exception e){
             e.printStackTrace();
